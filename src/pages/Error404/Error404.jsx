@@ -4,11 +4,9 @@ const Error404 = () => {
   return (
     <>
       <img
-        src="https://149434221.v2.pressablecdn.com/wp-content/uploads/2015/08/404-page-error.png"
+        src="https://www.wpoven.com/blog/wp-content/uploads/2022/09/error-404.png"
         alt="404 page"
       />
-      <p>This page does not exist, please return to </p>
-      <Link to="/">Home</Link>
     </>
   );
 };
